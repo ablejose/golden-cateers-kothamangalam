@@ -1,0 +1,37 @@
+{
+  "slug": "golden-cateers-kothamangalam",
+  "name": "Golden Cateers",
+  "shortName": "Golden Cateers",
+  "descriptor": "Catering & Events",
+  "address": "Thankalam, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.0634762,
+    "lng": 76.6135535
+  },
+  "mapsLink": "https://maps.google.com/?cid=14947040320519376265",
+  "phone": "+91 97445 20748",
+  "whatsapp": "919744520748",
+  "hours": "Open 8 am – 6 pm · all days",
+  "opens": "08:00",
+  "closes": "18:00",
+  "rating": 3.5,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "name": "Travel Trends With Abil",
+      "rating": 5,
+      "quote": "Excellent customer service , tasty food"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://golden-cateers-kothamangalam.vercel.app"
+}
